@@ -1,7 +1,7 @@
 
 ### Implementing a neural network from scratch in python
 
-3 layer neural network
+3-layer neural network implementation
 
 
 
